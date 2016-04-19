@@ -1,0 +1,13 @@
+html{
+	font-size: 62.5%;
+}
+body {
+	font-size: 1.5rem;
+	color: #666666;
+} 
+input, li{
+	margin-bottom: 2rem;
+}
+#recherche{
+	margin-top: 2rem;
+}
